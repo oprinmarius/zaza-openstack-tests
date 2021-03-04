@@ -31,6 +31,7 @@ python-glanceclient
 python-heatclient
 python-ironicclient
 python-keystoneclient
+python-magnumclient
 python-manilaclient
 python-neutronclient
 python-novaclient
